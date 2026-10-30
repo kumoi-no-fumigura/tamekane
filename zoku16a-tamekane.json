@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamekane",
  "yomi": "にゅうどうだいなごんためかねきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉後期",
+  "author": "京極為兼",
+  "desc": "京極派を率いた京極為兼の家集。四季・恋・雑の題詠を多く収める。末に寛政9年に借りた本を新たに写した旨の識語がある。"
+ },
  "editions": [
   {
    "pid": "936505",
